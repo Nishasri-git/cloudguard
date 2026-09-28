@@ -1,0 +1,6 @@
+{
+  "name": "CloudGuard",
+  "description": "CloudGuard – Intelligent Cloud Security Assessment Platform. Rule-based security misconfiguration detection, risk scoring, and Gemini-powered remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
